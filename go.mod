@@ -1,4 +1,4 @@
-module github.com/GalaxyFall/delayTask-etcd/v1
+module github.com/GalaxyFall/delayTask-etcd
 
 go 1.20
 
